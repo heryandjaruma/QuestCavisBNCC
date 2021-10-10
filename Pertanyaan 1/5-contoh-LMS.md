@@ -15,7 +15,8 @@ Terdapat ratusan bahkan ribuan jenis LMS yang ada saat ini. Berikut adalah 5 con
         dengan Student Developer Pack dan tentunya LMS Github Classroom. LMS ini secara spesifik digunakan oleh 
         tutor developer untuk membuat assignment dan mendistribusikannya kepada para murid. Selain gratis, Github 
         Classroom juga secara otomatis membuat repositori dan access control.
-        https://github.com/education/classroom
+        
+https://github.com/education/classroom
 
 ## 3.	BINUS Maya
 
@@ -39,4 +40,5 @@ Terdapat ratusan bahkan ribuan jenis LMS yang ada saat ini. Berikut adalah 5 con
         lebih unggul dan inovatif dibandingkan dengan pesaing serupa seperti Blackboard. Canvas sendiri digunakan 
         oleh Universitas ternama seperti Harvard University, MIT, dan sejumlah Ivy League seperti University of
         Chicago, Stanford University, Cornell, Princeton, dan Northwestern University.
-        https://github.com/instructure/canvas-lms
+        
+https://github.com/instructure/canvas-lms
